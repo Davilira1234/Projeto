@@ -1,0 +1,74 @@
+#menu {
+    background: black;
+	text-align:center;
+	font:20px arial;
+	padding:10px;
+	padding-bottom: 20px;
+	height: 180px;
+}
+
+.active{
+	color:white !important;
+}
+
+.nav-link{
+	color:white !important;
+}
+
+body{
+background-color: white !important;
+}
+
+#form{
+	margin-top: 30px;
+}
+
+#sobre{
+	background-image: linear-gradient(rgb(245, 229, 84), rgb(41, 39, 39));
+	text-align:center;
+    height:60px;
+	font:20px arial;
+	padding-top:50px;
+	text-shadow: 3px 3px 2px gray;
+}
+
+
+#menu a:link{
+	background: red;
+	color: white;
+	border: 1px solid white;
+	text-decoration: none;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+#menu a:hover{
+	color: black;
+	border: 1px solid white;
+	
+}
+#menu a:visited{
+	background: red;
+	border: 1px solid white;	
+	color: white;
+	text-decoration: none;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+button:hover{
+	background-color:black;
+	color:white;
+	cursor:pointer;
+}
+
+
+#produtos{
+	background: black;
+	color:white;
+	width: 300;
+	padding: 5px;
+	margin: 20px;
+	float:left;
+}
